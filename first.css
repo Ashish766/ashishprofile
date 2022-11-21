@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+}
+
+.homepage{
+    height: 500px;
+    width: 100%;
+    background-color: #d3d3d3;
+}
+
+.skills{
+    height: 300px;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 4%;
+    margin-bottom: 6%;    
+}
+
+.contact{
+    height: 660px;
+    width: 100%;
+    background-color: #d3d3d3;
+    font-size: 20px;
+    margin-top: 8%;
+}
